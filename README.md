@@ -3,7 +3,7 @@ A web scraping tool for extracting information from the website ukrlib.com.ua us
 
 This is a Python project that runs a Telegram bot for literature studies. The project consists of two files, `BOT_DB_.py` and `literatureClient.py`.
 
-## BOT_DB_.py 🤖
+## [BOT_DB_.py](https://github.com/Illia-the-coder/School-lib-tg-bot/blob/main/BOT_DB_.py) 🤖
 
 This file uses the following libraries:
 
@@ -13,7 +13,7 @@ This file uses the following libraries:
 
 The file has functions for inline keyboard creation, user data handling, and callback query handling. It also imports and uses functions from `literatureClient.py`.
 
-## [literatureClient.py](http://literatureclient.py/) 📚
+## [literatureClient.py](https://github.com/Illia-the-coder/School-lib-tg-bot/blob/main/literatureClient.py) 📚
 
 This file has the following classes:
 
@@ -43,7 +43,7 @@ The project uses Telegram API and requires a Telegram Bot token to run. Detailed
 
 Це проект Python, який запускає бота Telegram для вивчення літератури. Проект складається з двох файлів, `BOT_DB_.py` та `literatureClient.py`.
 
-## BOT_DB_.py 🤖
+## [BOT_DB_.py](https://github.com/Illia-the-coder/School-lib-tg-bot/blob/main/BOT_DB_.py) 🤖
 
 У цьому файлі використовуються наступні бібліотеки:
 
@@ -53,7 +53,7 @@ The project uses Telegram API and requires a Telegram Bot token to run. Detailed
 
 Файл містить функції для створення вбудованої клавіатури, обробки даних користувача та обробки запитів зворотного виклику. Він також імпортує та використовує функції з `literatureClient.py`.
 
-## [literatureClient.py](http://literatureclient.py/) 📚
+## [literatureClient.py](https://github.com/Illia-the-coder/School-lib-tg-bot/blob/main/literatureClient.py) 📚
 
 У цьому файлі є наступні класи:
 
